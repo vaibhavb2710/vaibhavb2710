@@ -14,12 +14,11 @@
 
 🎓 **B.Tech in Information Technology** *(Minor: AI & ML)*  
 📍 **Mumbai, India**  
-💡 Passionate about **AI, Machine Learning, Full-Stack Development & Data Analytics**
+💡 Passionate about **AI, Machine Learning, Full-Stack Development & Data Science**
 
 🏆 **Highlights**
 - 🥇 Smart India Hackathon – Internal Round Qualified *(2024 & 2025)*
 - 🏅 Mumbai Hacks – Top **3,000 / 21,000+** *(24-hour onsite hackathon)*
-- 🎖 Dean’s List *(2023–2025)*
 - 📊 **CGPA: 8.99 / 10**
 
 ---
@@ -69,15 +68,19 @@
 
 ---
 
+## ✨ What I Focus On  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full-Stack+Applications;Designing+AI+%26+ML+Solutions;Turning+Data+Into+Actionable+Insights;Writing+Clean%2C+Efficient+Code" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+</p>
+
+---
+
 ## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavb2710&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavb2710&theme=github-dark" />
