@@ -49,25 +49,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-### 🔹 AI Expense Analyzer
-- 92% accurate ML-based expense classification  
-- OCR + NLP receipt processing (95% accuracy)  
-- Real-time analytics & anomaly detection  
-
-### 🔹 Scholarship Disbursement System
-- Secure end-to-end digital workflow  
-- Reduced manual work by **60%**  
-- Scaled for **10,000+ users**
-
-### 🔹 Movie Recommendation System
-- Collaborative + content-based filtering  
-- Boosted engagement by **35%**  
-- Reduced response time by **25%**
-
----
-
 ## ✨ What I Focus On  
 
 <p align="center">
