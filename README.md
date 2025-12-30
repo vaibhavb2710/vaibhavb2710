@@ -25,27 +25,51 @@
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🧠 Programming & Foundations
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge)
+## 🌐 Application Development
+![Frontend](https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Flask-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![API](https://img.shields.io/badge/API-RESTful%20Services-02569B?style=for-the-badge)
+![Realtime](https://img.shields.io/badge/Realtime-WebSockets-4A90E2?style=for-the-badge)
 
-### 📊 AI / Data
-![ML](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+## 🤖 Artificial Intelligence & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Core-102230?style=for-the-badge)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-Models-1E88E5?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-Clustering-6A1B9A?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-3949AB?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-Insights-C62828?style=for-the-badge)
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+## 📊 Data Analysis & Visualization
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-009688?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🗄️ Databases & Storage
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Cloud%20Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## ⚙️ Engineering Practices & Tools
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-Primary%20IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-Java%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+## 🧩 Computer Science Fundamentals
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Problem%20Solving-0A66C2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-System%20Design-6A1B9A?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-Relational%20Design-2E7D32?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-Basics-455A64?style=for-the-badge)
+
+## 🎯 Learning & Growth (Optional but Smart)
+![NLP](https://img.shields.io/badge/NLP-Basics-512DA8?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Fundamentals-1B5E20?style=for-the-badge)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-Concepts-546E7A?style=for-the-badge)
 
 ---
 
