@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me  
+
 
 🎓 **B.Tech in Information Technology** *(Minor: AI & ML)*  
 📍 **Mumbai, India**  
