@@ -24,7 +24,6 @@
 ---
 
 ## 🛠️ Tech Stack  
-## 🛠️ Tech Stack  
 
 ## 🧠 Programming & Foundations
 ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
