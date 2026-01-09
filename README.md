@@ -23,10 +23,23 @@
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
-**Java | Python | JavaScript | React | Node.js | Flask | Machine Learning | MySQL | Git | DSA**
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=18&
+    pause=1000&
+    color=58A6FF&
+    center=true&
+    vCenter=true&
+    width=700&
+    lines=Java+|+Python+|+JavaScript;
+    React+|+Node.js+|+Flask+|+REST+APIs;
+    Machine+Learning+|+Time+Series+|+Anomaly+Detection;
+    Pandas+|+NumPy+|+Power+BI;
+    MySQL+|+Firebase+|+Git+|+DSA" />
+</p>
 ---
 
 ## ✨ What I Focus On  
