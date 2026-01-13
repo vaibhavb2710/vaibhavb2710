@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D3B1,50:C8AE84,100:8F6B4F&height=200&section=header&text=Vaibhav%20Bedre&fontSize=42&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
-
 <!-- TYPING ANIMATION (100% WORKING) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1&color=ffffff&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+ML+Engineer;Full-Stack+Developer;Building+Scalable+%26+Intelligent+Systems" />
