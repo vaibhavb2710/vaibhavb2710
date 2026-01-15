@@ -24,6 +24,15 @@
 - 📊 **CGPA: 8.99 / 10**
 
 ---
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vaibhavb2710&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavb2710&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+---
 
 ## 🛠️ Tech Stack  
 
