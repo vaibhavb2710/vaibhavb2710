@@ -23,18 +23,6 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavb2710&theme=default&cache_seconds=86400"
-    alt="GitHub Streak"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
----
-
 ## 🛠️ Tech Stack  
 
 ## 🧠 Programming & Foundations
