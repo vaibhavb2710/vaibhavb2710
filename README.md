@@ -22,9 +22,15 @@
 - 📊 **CGPA: 8.99 / 10**
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavb2710&cache_seconds=86400)
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavb2710&theme=orange"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
