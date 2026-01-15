@@ -1,5 +1,3 @@
-
-
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D3B1,50:C8AE84,100:8F6B4F&height=200&section=header&text=Vaibhav%20Bedre&fontSize=42&fontColor=FFFFFF&animation=fadeIn" />
@@ -24,13 +22,9 @@
 - 📊 **CGPA: 8.99 / 10**
 
 ---
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhavb2710&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavb2710&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavb2710&cache_seconds=86400)
 
 ---
 
