@@ -3,6 +3,7 @@
 
 
 
+
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D3B1,50:C8AE84,100:8F6B4F&height=200&section=header&text=Vaibhav%20Bedre&fontSize=42&fontColor=FFFFFF&animation=fadeIn" />
