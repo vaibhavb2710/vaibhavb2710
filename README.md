@@ -19,14 +19,11 @@
 
 ## 🚀 About Me  
 
+I enjoy building real-world projects that solve practical problems, from Java desktop applications to full-stack web platforms and intelligent systems. I’m currently focused on sharpening my problem-solving skills, mastering backend development, and preparing for top software internships. 
+
 🎓 **B.Tech in Information Technology** *(Minor: AI & ML)*  
 📍 **Mumbai, India**  
 💡 Passionate about **AI, Machine Learning, Full-Stack Development & Data Science**
-
-🏆 **Highlights**
-- 🥇 Smart India Hackathon – Internal Round Qualified *(2024 & 2025)*
-- 🏅 Mumbai Hacks – Top **3,000 / 21,000+** *(24-hour onsite hackathon)*
-- 📊 **CGPA: 8.99 / 10**
 
 ---
 
