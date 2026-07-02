@@ -20,33 +20,40 @@ I enjoy building real-world projects that solve practical problems, from Java de
 
 ---
 
-### 🛠️ Tech Stack
- 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<table width="10%" align="center">
+<colgroup>
+<col width="30%">
+<col width="80%">
+</colgroup>
+<tr>
+<td valign="top">💻&nbsp;<b>Languages</b></td>
+<td>Java, Python, JavaScript, TypeScript, SQL</td>
+</tr>
+<tr>
+<td valign="top">🌐&nbsp;<b>Frontend</b></td>
+<td>React, HTML5, CSS3, Tailwind CSS, Vite</td>
+</tr>
+<tr>
+<td valign="top">⚙️&nbsp;<b>Backend</b></td>
+<td>Node.js, Flask, REST APIs, JWT Auth, WebSockets</td>
+</tr>
+<tr>
+<td valign="top">🤖&nbsp;<b>AI / ML & Data</b></td>
+<td>Machine Learning, NLP, Scikit-learn, TensorFlow, Pandas, NumPy, OCR</td>
+</tr>
+<tr>
+<td valign="top">🗄️&nbsp;<b>Database & Cloud</b></td>
+<td>MySQL, MongoDB, Firebase, Docker, Azure AI, Power BI</td>
+</tr>
+<tr>
+<td valign="top">🧰&nbsp;<b>Tools</b></td>
+<td>Git, GitHub, VS Code, Postman</td>
+</tr>
+<tr>
+<td valign="top">📚&nbsp;<b>CS Fundamentals</b></td>
+<td>DSA, OOP, DBMS, Operating Systems, Computer Networks</td>
+</tr>
+</table>
 
 ---
 
@@ -90,6 +97,3 @@ I enjoy building real-world projects that solve practical problems, from Java de
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D3B1,50:C8AE84,100:8F6B4F&height=120&section=footer" />
 </p>
-
-
-
